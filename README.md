@@ -52,4 +52,4 @@
 
 ---
 
-> “O progresso está em nunca parar de aprender!” 🚀
+> “O progresso está em nunca desistir” 🚀
