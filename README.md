@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o João Alves
 
 🚀 Apaixonado por tecnologia e em constante evolução para me tornar um desenvolvedor front-end cada vez melhor!  
-🎯 Atualmente sou **Dev Front-End Júnior**, focado em criar interfaces modernas, acessíveis e responsivas.
+🎯 Atualmente sou estou em progesso para ser um **Dev**, focado em criar interfaces modernas, acessíveis e responsivas.
 
 [![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/alves404)
 
