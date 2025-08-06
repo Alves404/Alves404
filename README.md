@@ -48,7 +48,6 @@
 ## ✨ Curiosidades
 
 - 🕹️ Apaixonado por games, cultura geek e tecnologia.
-- 🐧 Fã do pinguim (Linux) e customizações de sistemas.
 - 📚 Sempre com uma lista de cursos e livros para aprender mais!
 
 ---
