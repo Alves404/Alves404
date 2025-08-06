@@ -4,7 +4,7 @@
 🎯 Atualmente sou estou em progesso para ser um **Dev**, focado em criar interfaces modernas, acessíveis e responsivas.
 
 [![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/alves404)
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 ---
 
 ## 🧑‍💻 Sobre mim
