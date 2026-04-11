@@ -1,20 +1,7 @@
 # 👋 Olá! Eu sou o João Alves
 
 🚀 Apaixonado por tecnologia e em constante evolução para me tornar um desenvolvedor front-end cada vez melhor!  
-🎯 Atualmente sou estou em progesso para ser um **Dev**, focado em criar interfaces modernas, acessíveis e responsivas.
-
-[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/alves404)
----
-
-## 🧑‍💻 Sobre mim
-
-- 👨‍🎓 Estudante dedicado e entusiasta do mundo da programação.
-- 💡 Sempre buscando aprender novas tecnologias e boas práticas.
-- 🌱 Atualmente aprimorando minhas habilidades em **JavaScript** e frameworks front-end.
-- 💬 Gosto de trocar ideias e colaborar em projetos open source.
-- ✨ Curioso por sistemas Linux, automação e boas interfaces.
-
----
+🎯 Atualmente sou estou em progesso para ser um **Dev**, focado em criar serviço web de qualidade.
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -50,4 +37,4 @@
 
 ---
 
-> “O progresso está em nunca desistir” 🚀
+> “O progresso está em nunca desistir” 
