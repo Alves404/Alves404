@@ -31,8 +31,7 @@
     <td align="center"><img alt="Cloudflare" height="40" src="https://cdn.simpleicons.org/cloudflare/F38020"><br>Cloudflare</td>
     <td align="center"><img alt="Hostinger" height="40" src="https://cdn.simpleicons.org/hostinger/673DE6"><br>Hostinger</td>
     <td align="center"><img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git</td>
-    <td align="center"><img alt="Redux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><br>Redux</td>
-    <td align="center"><img alt="OpenAI" height="40" src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg"><br>OpenAI (GPT)</td>
+    <td align="center"><img alt="OpenAI" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/chatgpt.svg"><br>OpenAI (GPT)</td>
     <td align="center"><img alt="Google Gemini" height="40" src="https://cdn.simpleicons.org/googlegemini/8E75C2"><br>Gemini</td>
     <td align="center"><img alt="Claude" height="40" src="https://cdn.simpleicons.org/claude/D97754"><br>Claude</td>
     <td align="center"><img alt="GitHub Copilot" height="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF"><br>Copilot</td>
@@ -44,7 +43,7 @@
 
 <div align="center">
 
-![cozy-pixel-coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5MDNjczE1c3J1aTZydWoxcTRpdXQ4N3oyZTZ5MDR0YTN4cGV3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3PfvGTJVPQ/giphy.gif)
+![pixel-cat-typing](https://media1.tenor.com/m/W_B9yT8m1fQAAAAC/cat-typing.gif)
 
 </div>
 
