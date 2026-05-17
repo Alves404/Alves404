@@ -24,7 +24,7 @@
     <td align="center"><img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>HTML5</td>
     <td align="center"><img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS3</td>
     <td align="center"><img alt="Vite" height="40" src="https://cdn.simpleicons.org/vite/646CFF"><br>Vite</td>
-    <td align="center"><img alt="SQL" height="40" src="https://cdn.simpleicons.org/mysql/4479A1"><br>SQL</td>
+    <td align="center"><img alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br>SQL</td>
     <td align="center"><img alt="Power BI" height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"><br>Power BI</td>
   </tr>
   <tr>
