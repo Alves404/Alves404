@@ -1,36 +1,57 @@
-# 👋 Olá! Eu sou o João Alves
+## Olá! Eu sou o João Vitor... Ou Alves404 😎 👋
 
-🚀 Apaixonado por tecnologia e em constante evolução no desenvolvimento front-end!  
-🎯 Focado em criar experiências web modernas, responsivas e de alta qualidade.
-
-🔗 **Confira meu portfólio:** [alves404.com](https://alves404.com)
-
-## 🛠️ Tecnologias & Ferramentas
-
-#### Linguagens & Frameworks:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-#### Sistemas Operacionais:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- 🖥️ **Infraestrutura de TI N1/N2** | Conselho Regional de Contabilidade de Mato Grosso (CRC-MT)
+- 🤝 **Suporte Técnico & Redes** • Manutenção de Hardware/Software • Automações de Processos de TI
+- 💻 **Desenvolvimento Web** moderno, focado em criar experiências responsivas e de altíssimo nível
+- 🔐 **Web Development**: Requisições de APIs REST • Gerenciamento de Estado (Redux, Zustand) • Autenticação (JWT, OAuth)
+- 📊 **Business Intelligence & Dados**: Dashboards interativos em Power BI • SQL • Automações via Google Scripts
+- 🌐 **Hospedagem & Cloud**: Configuração e otimização de domínios via Hostinger e Cloudflare CDN
+- 🤖 **Integração & Produtividade com IAs**: GitHub Copilot, ChatGPT API, Google Gemini & Claude
+- 📚 **Acadêmico**: Estudante do 1º semestre de Análise e Desenvolvimento de Sistemas na **UNIC**
+- 🕰️ **Histórico**: Curiosidade e paixão por tecnologia desde a infância, desenvolvendo scripts e resolvendo problemas desde 2023
 
 ---
 
-## 🌍 Onde me encontrar
+### 🛠️ Tecnologias & Ferramentas
 
-[![Portfólio](https://img.shields.io/badge/Website-alves404.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alves404.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alves404)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/real.joao17/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fudZCf8A)
+<table>
+  <tr>
+    <td align="center"><img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br>React</td>
+    <td align="center"><img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><br>TypeScript</td>
+    <td align="center"><img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>JavaScript</td>
+    <td align="center"><img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>Python</td>
+    <td align="center"><img alt="Ruby" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"><br>Ruby</td>
+    <td align="center"><img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>HTML5</td>
+    <td align="center"><img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS3</td>
+    <td align="center"><img alt="Vite" height="40" src="https://cdn.simpleicons.org/vite/646CFF"><br>Vite</td>
+    <td align="center"><img alt="SQL" height="40" src="https://cdn.simpleicons.org/mysql/4479A1"><br>SQL</td>
+    <td align="center"><img alt="PowerBI" height="40" src="https://cdn.simpleicons.org/powerbi/F2C811"><br>Power BI</td>
+    <td align="center"><img alt="Cloudflare" height="40" src="https://cdn.simpleicons.org/cloudflare/F38020"><br>Cloudflare</td>
+    <td align="center"><img alt="Hostinger" height="40" src="https://cdn.simpleicons.org/hostinger/673DE6"><br>Hostinger</td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Windows" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"><br>Windows</td>
+    <td align="center"><img alt="Arch Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"><br>Arch</td>
+    <td align="center"><img alt="Debian" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"><br>Debian</td>
+    <td align="center"><img alt="Kali Linux" height="40" src="https://cdn.simpleicons.org/kalilinux/007FAD"><br>Kali</td>
+    <td align="center"><img alt="Android" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"><br>Android</td>
+    <td align="center"><img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git</td>
+    <td align="center"><img alt="Redux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><br>Redux</td>
+    <td align="center"><img alt="OpenAI" height="40" src="https://cdn.simpleicons.org/openai/412991"><br>ChatGPT</td>
+    <td align="center"><img alt="Google Gemini" height="40" src="https://cdn.simpleicons.org/googlegemini/8E75C2"><br>Gemini</td>
+    <td align="center"><img alt="Claude" height="40" src="https://cdn.simpleicons.org/claude/D97754"><br>Claude</td>
+    <td align="center"><img alt="GitHub Copilot" height="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF"><br>Copilot</td>
+    <td align="center"><img alt="Google Apps Script" height="40" src="https://cdn.simpleicons.org/googleappsscript/34A853"><br>Google Scripts</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+![cozy-pixel-coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5MDNjczE1c3J1aTZydWoxcTRpdXQ4N3oyZTZ5MDR0YTN4cGV3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3PfvGTJVPQ/giphy.gif)
+
+</div>
 
 ---
 
@@ -41,4 +62,15 @@
 
 ---
 
-> “O progresso está em nunca desistir”
+<div align="center">
+  <a href="https://alves404.com" target="_blank"><img src="https://img.shields.io/badge/Website-alves404.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:jvitormagalhaes17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/real.joao17/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://discord.gg/fudZCf8A" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <blockquote>“O progresso está em nunca desistir”</blockquote>
+</div>
