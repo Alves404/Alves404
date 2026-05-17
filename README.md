@@ -1,6 +1,4 @@
 ## Olá! Eu sou o João Vitor... Ou Alves404 😎 👋
-
-- 🖥️ **Infraestrutura de TI N1/N2** | Conselho Regional de Contabilidade de Mato Grosso (CRC-MT)
 - 🤝 **Suporte Técnico & Redes** • Manutenção de Hardware/Software • Automações de Processos de TI
 - 💻 **Desenvolvimento Web** moderno, focado em criar experiências responsivas e de altíssimo nível
 - 🔐 **Web Development**: Requisições de APIs REST • Gerenciamento de Estado (Redux, Zustand) • Autenticação (JWT, OAuth)
