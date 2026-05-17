@@ -25,19 +25,14 @@
     <td align="center"><img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS3</td>
     <td align="center"><img alt="Vite" height="40" src="https://cdn.simpleicons.org/vite/646CFF"><br>Vite</td>
     <td align="center"><img alt="SQL" height="40" src="https://cdn.simpleicons.org/mysql/4479A1"><br>SQL</td>
-    <td align="center"><img alt="PowerBI" height="40" src="https://cdn.simpleicons.org/powerbi/F2C811"><br>Power BI</td>
-    <td align="center"><img alt="Cloudflare" height="40" src="https://cdn.simpleicons.org/cloudflare/F38020"><br>Cloudflare</td>
-    <td align="center"><img alt="Hostinger" height="40" src="https://cdn.simpleicons.org/hostinger/673DE6"><br>Hostinger</td>
+    <td align="center"><img alt="Power BI" height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"><br>Power BI</td>
   </tr>
   <tr>
-    <td align="center"><img alt="Windows" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"><br>Windows</td>
-    <td align="center"><img alt="Arch Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"><br>Arch</td>
-    <td align="center"><img alt="Debian" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"><br>Debian</td>
-    <td align="center"><img alt="Kali Linux" height="40" src="https://cdn.simpleicons.org/kalilinux/007FAD"><br>Kali</td>
-    <td align="center"><img alt="Android" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"><br>Android</td>
+    <td align="center"><img alt="Cloudflare" height="40" src="https://cdn.simpleicons.org/cloudflare/F38020"><br>Cloudflare</td>
+    <td align="center"><img alt="Hostinger" height="40" src="https://cdn.simpleicons.org/hostinger/673DE6"><br>Hostinger</td>
     <td align="center"><img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git</td>
     <td align="center"><img alt="Redux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><br>Redux</td>
-    <td align="center"><img alt="OpenAI" height="40" src="https://cdn.simpleicons.org/openai/412991"><br>ChatGPT</td>
+    <td align="center"><img alt="OpenAI" height="40" src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg"><br>OpenAI (GPT)</td>
     <td align="center"><img alt="Google Gemini" height="40" src="https://cdn.simpleicons.org/googlegemini/8E75C2"><br>Gemini</td>
     <td align="center"><img alt="Claude" height="40" src="https://cdn.simpleicons.org/claude/D97754"><br>Claude</td>
     <td align="center"><img alt="GitHub Copilot" height="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF"><br>Copilot</td>
