@@ -31,7 +31,7 @@
     <td align="center"><img alt="Cloudflare" height="40" src="https://cdn.simpleicons.org/cloudflare/F38020"><br>Cloudflare</td>
     <td align="center"><img alt="Hostinger" height="40" src="https://cdn.simpleicons.org/hostinger/673DE6"><br>Hostinger</td>
     <td align="center"><img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git</td>
-    <td align="center"><img alt="OpenAI" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/chatgpt.svg"><br>OpenAI (GPT)</td>
+    <td align="center"><img alt="ChatGPT" height="40" src="./chatgpt.svg"><br>ChatGPT</td>
     <td align="center"><img alt="Google Gemini" height="40" src="https://cdn.simpleicons.org/googlegemini/8E75C2"><br>Gemini</td>
     <td align="center"><img alt="Claude" height="40" src="https://cdn.simpleicons.org/claude/D97754"><br>Claude</td>
     <td align="center"><img alt="GitHub Copilot" height="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF"><br>Copilot</td>
