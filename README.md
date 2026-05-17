@@ -25,7 +25,6 @@
     <td align="center"><img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS3</td>
     <td align="center"><img alt="Vite" height="40" src="https://cdn.simpleicons.org/vite/646CFF"><br>Vite</td>
     <td align="center"><img alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br>SQL</td>
-    <td align="center"><img alt="Power BI" height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"><br>Power BI</td>
   </tr>
   <tr>
     <td align="center"><img alt="Cloudflare" height="40" src="https://cdn.simpleicons.org/cloudflare/F38020"><br>Cloudflare</td>
@@ -36,6 +35,7 @@
     <td align="center"><img alt="Claude" height="40" src="https://cdn.simpleicons.org/claude/D97754"><br>Claude</td>
     <td align="center"><img alt="GitHub Copilot" height="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF"><br>Copilot</td>
     <td align="center"><img alt="Google Apps Script" height="40" src="https://cdn.simpleicons.org/googleappsscript/34A853"><br>Google Scripts</td>
+    <td align="center"><img alt="Power BI" height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"><br>Power BI</td>
   </tr>
 </table>
 
