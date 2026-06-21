@@ -5,7 +5,6 @@
 - 📊 **Business Intelligence & Dados**: Dashboards interativos em Power BI • SQL • Automações via Google Scripts
 - 🌐 **Hospedagem & Cloud**: Configuração e otimização de domínios via Hostinger e Cloudflare CDN
 - 🤖 **Integração & Produtividade com IAs**: GitHub Copilot, ChatGPT API, Google Gemini & Claude
-- 📚 **Acadêmico**: Estudante do 1º semestre de Análise e Desenvolvimento de Sistemas na **UNIC**
 - 🕰️ **Histórico**: Curiosidade e paixão por tecnologia desde a infância, desenvolvendo scripts e resolvendo problemas desde 2023
 
 ---
@@ -50,7 +49,7 @@
 ## ✨ Curiosidades
 
 - 🕹️ Apaixonado por games, cultura geek e tecnologia.
-- 📚 Sempre com uma lista de cursos e livros para aprender mais!
+- 📚 Sempre com uma lista de cursos e livros!
 
 ---
 
