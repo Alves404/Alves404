@@ -24,7 +24,6 @@
   </tr>
   <tr>
     <td align="center"><img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git</td>
-    <td align="center"><img alt="GitHub Copilot" height="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF"><br>Copilot</td>
     <td align="center"><img alt="Google Apps Script" height="40" src="https://cdn.simpleicons.org/googleappsscript/34A853"><br>Google Scripts</td>
     <td align="center"><img alt="Power BI" height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"><br>Power BI</td>
   </tr>
