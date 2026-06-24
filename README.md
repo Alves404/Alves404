@@ -24,12 +24,7 @@
     <td align="center"><img alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br>SQL</td>
   </tr>
   <tr>
-    <td align="center"><img alt="Cloudflare" height="40" src="https://cdn.simpleicons.org/cloudflare/F38020"><br>Cloudflare</td>
-    <td align="center"><img alt="Hostinger" height="40" src="https://cdn.simpleicons.org/hostinger/673DE6"><br>Hostinger</td>
     <td align="center"><img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git</td>
-    <td align="center"><img alt="ChatGPT" height="40" src="./chatgpt.svg"><br>ChatGPT</td>
-    <td align="center"><img alt="Google Gemini" height="40" src="https://cdn.simpleicons.org/googlegemini/8E75C2"><br>Gemini</td>
-    <td align="center"><img alt="Claude" height="40" src="https://cdn.simpleicons.org/claude/D97754"><br>Claude</td>
     <td align="center"><img alt="GitHub Copilot" height="40" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF"><br>Copilot</td>
     <td align="center"><img alt="Google Apps Script" height="40" src="https://cdn.simpleicons.org/googleappsscript/34A853"><br>Google Scripts</td>
     <td align="center"><img alt="Power BI" height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"><br>Power BI</td>
