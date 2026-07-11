@@ -70,7 +70,7 @@ Escrevendo código e resolvendo problemas técnicos desde 2023, movido por um in
 ## Estatísticas GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alves404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="Estatísticas GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alves404&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas GitHub" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves404&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
 
   <br /><br />
