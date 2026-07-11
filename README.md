@@ -37,11 +37,8 @@ const techStack = {
 [![Discord](https://img.shields.io/badge/Discord-Alves404-0d1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=161b22)](https://discord.gg/fudZCf8A)
 
 ---
-
 <div align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150" alt="Daftpunktocat">
   <br><br>
   <sub>// "Progresso é nunca desistir."</sub>
 </div>
-
-<!-- GitHub Achievements -->
