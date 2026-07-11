@@ -1,51 +1,51 @@
 # João Vitor Magalhães · Alves404
 
-**Full-Stack Developer · IT Support · Data & Automation**
+**Desenvolvedor Full-Stack · Suporte de TI · Dados & Automação**
 
 ```js
 const developer = {
-  name    : "João Vitor Magalhães",
-  alias   : "Alves404",
-  focus   : ["Web Development", "IT Infrastructure", "Business Intelligence"],
-  contact : "jvitormagalhaes17@gmail.com",
-  site    : "https://alves404.com"
+  nome     : "João Vitor Magalhães",
+  alias    : "Alves404",
+  foco     : ["Desenvolvimento Web", "Infraestrutura de TI", "Business Intelligence"],
+  contato  : "jvitormagalhaes17@gmail.com",
+  site     : "https://alves404.com"
 }
 ```
 
 ---
 
-## About
+## Sobre
 
-Full-stack developer with a background in technical support and IT infrastructure. I build modern, responsive web applications and design automated workflows that reduce friction and improve operational efficiency. I approach every project with a systems-thinking mindset — from database schema to UI interaction.
+Desenvolvedor full-stack com experiência em suporte técnico e infraestrutura de TI. Construo aplicações web modernas e responsivas e desenvolvo fluxos de automação que reduzem retrabalho e aumentam a eficiência operacional. Abordo cada projeto com visão sistêmica — do esquema de banco de dados à interação de interface.
 
-Writing code and solving technical problems since 2023, driven by a long-standing interest in how software shapes the way people and organizations work.
+Escrevendo código e resolvendo problemas técnicos desde 2023, movido por um interesse genuíno em como o software transforma a forma como pessoas e organizações trabalham.
 
 ---
 
-## Core Competencies
+## Competências
 
-**Web Development**
-- Component-driven front-end architecture with React and TypeScript
-- REST API integration, JWT / OAuth authentication flows
-- State management with Redux and Zustand
-- Responsive UI with HTML5 and CSS3
+**Desenvolvimento Web**
+- Arquitetura front-end orientada a componentes com React e TypeScript
+- Integração com APIs REST, fluxos de autenticação JWT / OAuth
+- Gerenciamento de estado com Redux e Zustand
+- Interfaces responsivas com HTML5 e CSS3
 
-**IT Infrastructure & Support**
-- Hardware and software maintenance
-- Process automation and scripting
-- Network configuration and troubleshooting
+**Infraestrutura & Suporte de TI**
+- Manutenção de hardware e software
+- Automação de processos e scripting
+- Configuração e diagnóstico de redes
 
-**Data & Business Intelligence**
-- Interactive dashboards in Power BI
-- SQL queries and database management
-- Workflow automation via Google Apps Script
+**Dados & Business Intelligence**
+- Dashboards interativos no Power BI
+- Consultas SQL e gerenciamento de banco de dados
+- Automação de fluxos via Google Apps Script
 
-**AI Integration**
+**Integração com IAs**
 - GitHub Copilot · OpenAI API · Google Gemini · Anthropic Claude
 
 ---
 
-## Tech Stack
+## Stack de Tecnologias
 
 <table>
   <tr>
@@ -62,22 +62,21 @@ Writing code and solving technical problems since 2023, driven by a long-standin
     <td align="center"><img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git</td>
     <td align="center"><img alt="Google Apps Script" height="40" src="https://cdn.simpleicons.org/googleappsscript/34A853"><br>Apps Script</td>
     <td align="center"><img alt="Power BI" height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"><br>Power BI</td>
-    <td align="center"><img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><br>Node.js</td>
   </tr>
 </table>
 
 ---
 
-## GitHub Stats
+## Estatísticas GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alves404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves404&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alves404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="Estatísticas GitHub">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves404&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas">
 </div>
 
 ---
 
-## Contact
+## Contato
 
 <div align="center">
   <a href="https://alves404.com" target="_blank"><img src="https://img.shields.io/badge/Website-alves404.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=161b22"></a>
@@ -89,5 +88,5 @@ Writing code and solving technical problems since 2023, driven by a long-standin
 ---
 
 <div align="center">
-  <sub>// "Progress is never giving up."</sub>
+  <sub>// "Progresso é nunca desistir."</sub>
 </div>
