@@ -16,9 +16,21 @@ const developer = {
 
 ## Sobre
 
-Desenvolvedor full-stack com experiência em suporte técnico e infraestrutura de TI. Construo aplicações web modernas e responsivas e desenvolvo fluxos de automação que reduzem retrabalho e aumentam a eficiência operacional. Abordo cada projeto com visão sistêmica — do esquema de banco de dados à interação de interface.
+```js
+class Profile {
+  constructor() {
+    this.role = "Desenvolvedor Full-Stack";
+    this.background = ["Suporte Técnico", "Infraestrutura de TI"];
+    this.mission = "Construir aplicações web responsivas e fluxos de automação eficientes.";
+    this.approach = "Visão sistêmica: do esquema de banco de dados à interação de interface.";
+    this.activeSince = 2023;
+  }
 
-Escrevendo código e resolvendo problemas técnicos desde 2023, movido por um interesse genuíno em como o software transforma a forma como pessoas e organizações trabalham.
+  getMotivation() {
+    return "Movido pelo interesse em como o software transforma pessoas e organizações.";
+  }
+}
+```
 
 ---
 
@@ -64,19 +76,6 @@ Escrevendo código e resolvendo problemas técnicos desde 2023, movido por um in
     <td align="center"><img alt="Power BI" height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"><br>Power BI</td>
   </tr>
 </table>
-
----
-
-## Estatísticas GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alves404&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves404&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
-
-  <br /><br />
-
-  <img src="https://streak-stats.demolab.com?user=Alves404&theme=github-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" />
-</div>
 
 ---
 
