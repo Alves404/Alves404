@@ -24,11 +24,7 @@ class Profile {
     return "Movido pelo interesse em como o software transforma pessoas e organizações.";
   }
 }
-```
 
----
-
-```js
 // --- Competências ---
 const skills = {
   webDevelopment: [
