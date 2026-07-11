@@ -87,6 +87,9 @@ const skills = {
 
 ---
 
+
 <div align="center">
   <sub>// "Progresso é nunca desistir."</sub>
 </div>
+
+<!-- GitHub Achievements -->
