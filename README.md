@@ -1,6 +1,5 @@
 # João Vitor Magalhães · Alves404
 **Desenvolvedor Full-Stack · Suporte de TI · Dados & Automação**
-
 ```js
 const developer = {
   nome     : "João Vitor Magalhães",
@@ -23,7 +22,6 @@ class Profile {
     return "Movido pelo interesse em como o software transforma pessoas e organizações.";
   }
 }
-
 // --- Stack de Tecnologias ---
 const techStack = {
   frontend: ["React", "TypeScript", "JavaScript", "HTML5", "CSS3", "Vite"],
@@ -31,9 +29,6 @@ const techStack = {
   toolsAndOthers: ["Git", "Google Apps Script", "Power BI"]
 };
 ```
-
-
-
 ## Contato
 
 [![Website](https://img.shields.io/badge/Website-alves404.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=161b22)](https://alves404.com)
@@ -42,7 +37,6 @@ const techStack = {
 [![Discord](https://img.shields.io/badge/Discord-Alves404-0d1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=161b22)](https://discord.gg/fudZCf8A)
 
 ---
-
 
 <div align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150" alt="Daftpunktocat">
