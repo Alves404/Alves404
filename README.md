@@ -10,13 +10,7 @@ const developer = {
   contato  : "jvitormagalhaes17@gmail.com",
   site     : "https://alves404.com"
 }
-```
 
----
-
-## Sobre
-
-```js
 class Profile {
   constructor() {
     this.role = "Desenvolvedor Full-Stack";
