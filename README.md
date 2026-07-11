@@ -1,5 +1,9 @@
 # João Vitor Magalhães · Alves404
 
+<div align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150" alt="Daftpunktocat">
+</div>
+
 **Desenvolvedor Full-Stack · Suporte de TI · Dados & Automação**
 
 ```js
