@@ -28,26 +28,33 @@ class Profile {
 
 ---
 
-## Competências
-
-**Desenvolvimento Web**
-- Arquitetura front-end orientada a componentes com React e TypeScript
-- Integração com APIs REST, fluxos de autenticação JWT / OAuth
-- Gerenciamento de estado com Redux e Zustand
-- Interfaces responsivas com HTML5 e CSS3
-
-**Infraestrutura & Suporte de TI**
-- Manutenção de hardware e software
-- Automação de processos e scripting
-- Configuração e diagnóstico de redes
-
-**Dados & Business Intelligence**
-- Dashboards interativos no Power BI
-- Consultas SQL e gerenciamento de banco de dados
-- Automação de fluxos via Google Apps Script
-
-**Integração com IAs**
-- GitHub Copilot · OpenAI API · Google Gemini · Anthropic Claude
+```js
+// --- Competências ---
+const skills = {
+  webDevelopment: [
+    "Arquitetura front-end orientada a componentes com React e TypeScript",
+    "Integração com APIs REST, fluxos de autenticação JWT / OAuth",
+    "Gerenciamento de estado com Redux e Zustand",
+    "Interfaces responsivas com HTML5 e CSS3"
+  ],
+  infrastructureAndSupport: [
+    "Manutenção de hardware e software",
+    "Automação de processos e scripting",
+    "Configuração e diagnóstico de redes"
+  ],
+  dataAndBI: [
+    "Dashboards interativos no Power BI",
+    "Consultas SQL e gerenciamento de banco de dados",
+    "Automação de fluxos via Google Apps Script"
+  ],
+  aiIntegration: [
+    "GitHub Copilot",
+    "OpenAI API",
+    "Google Gemini",
+    "Anthropic Claude"
+  ]
+};
+```
 
 ---
 
