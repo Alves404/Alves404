@@ -11,7 +11,7 @@ const developer = {
 
 class Profile {
   constructor() {
-    this.role = "Desenvolvedor Full-Stack";
+    this.role = "Desenvolvedor";
     this.background = ["Suporte Técnico", "Infraestrutura de TI"];
     this.mission = "Construir aplicações web responsivas e fluxos de automação eficientes.";
     this.approach = "Visão sistêmica: do esquema de banco de dados à interação de interface.";
