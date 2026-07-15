@@ -1,4 +1,4 @@
-# João Vitor Magalhães · Alves404
+# João Vitor  · Alves404
 **Desenvolvedor Full-Stack · Suporte de TI · Dados & Automação**
 ```js
 const developer = {
