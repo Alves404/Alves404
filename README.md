@@ -5,7 +5,7 @@
 
 ##  Sobre mim
 
-- **Nome:** João Vitor Magalhães
+- **Nome:** João Vitor 
 - **Apelido:** Alves404  - **Foco:** Desenvolvimento Web, Infraestrutura de TI e Business Intelligence
 - **Background:** Suporte Técnico e Infraestrutura de TI - **Prática:** Construir aplicações web responsivas e fluxos de automação eficientes.
 - **Abordagem:** Visão sistêmica: do esquema de banco de dados à interação de interface.
