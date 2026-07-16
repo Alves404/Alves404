@@ -25,12 +25,9 @@
 [![Website](https://img.shields.io/badge/Website-alves404.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=161b22)](https://alves404.com)
 [![Gmail](https://img.shields.io/badge/Gmail-jvitormagalhaes17-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:jvitormagalhaes17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alves404-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/joao-vitor-alves-6473522b1/)
----
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=devpedro404&color=blueviolet&style=for-the-badge)
+---
 
-</div>
 <div align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150" alt="Daftpunktocat">
   <br><sub>// "Progresso é nunca desistir."</sub>
