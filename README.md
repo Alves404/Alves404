@@ -7,7 +7,7 @@
 
 - **Nome:** João Vitor Magalhães
 - **Apelido:** Alves404  - **Foco:** Desenvolvimento Web, Infraestrutura de TI e Business Intelligence
-- **Background:** Suporte Técnico e Infraestrutura de TI - **Missão:** Construir aplicações web responsivas e fluxos de automação eficientes.
+- **Background:** Suporte Técnico e Infraestrutura de TI - **Prática:** Construir aplicações web responsivas e fluxos de automação eficientes.
 - **Abordagem:** Visão sistêmica: do esquema de banco de dados à interação de interface.
 - **Motivação:** Movido pelo interesse em como o software transforma pessoas e organizações. - **Ativo desde:** 2023
 - **Site:** [https://alves404.com](https://alves404.com)
