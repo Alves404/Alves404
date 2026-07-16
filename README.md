@@ -6,25 +6,18 @@
 ##  Sobre mim
 
 - **Nome:** João Vitor Magalhães
-- **Alias:** Alves404
-- **Cargo:** Desenvolvedor
-- **Foco:** Desenvolvimento Web, Infraestrutura de TI e Business Intelligence
-- **Background:** Suporte Técnico e Infraestrutura de TI
-- **Missão:** Construir aplicações web responsivas e fluxos de automação eficientes.
+- **Apelido:** Alves404  - **Foco:** Desenvolvimento Web, Infraestrutura de TI e Business Intelligence
+- **Background:** Suporte Técnico e Infraestrutura de TI - **Missão:** Construir aplicações web responsivas e fluxos de automação eficientes.
 - **Abordagem:** Visão sistêmica: do esquema de banco de dados à interação de interface.
-- **Motivação:** Movido pelo interesse em como o software transforma pessoas e organizações.
-- **Ativo desde:** 2023
+- **Motivação:** Movido pelo interesse em como o software transforma pessoas e organizações. - **Ativo desde:** 2023
 - **Site:** [https://alves404.com](https://alves404.com)
 - **E-mail:** jvitormagalhaes17@gmail.com
-
 ---
 
 ## Skills de Tecnologias
-
 - **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, Vite
 - **Backend & Banco de Dados:** Python, Ruby, MySQL, SQL
 - **Ferramentas & Outros:** Git, Google Apps Script, Power BI
-
 ---
 
 ## Contato
