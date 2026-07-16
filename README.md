@@ -1,4 +1,4 @@
-# João Vitor Magalhães · Alves404
+# João Vitor  · Alves404
 **Desenvolvedor · Suporte de TI · Dados & Automação**
 
 ---
