@@ -1,5 +1,5 @@
 # João Vitor Magalhães · Alves404
-**Desenvolvedor Full-Stack · Suporte de TI · Dados & Automação**
+**Desenvolvedor · Suporte de TI · Dados & Automação**
 
 ---
 
