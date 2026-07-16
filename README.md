@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 - **Nome:** João Vitor Magalhães
 - **Alias:** Alves404
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Stack de Tecnologias
+## Skills de Tecnologias
 
 - **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, Vite
 - **Backend & Banco de Dados:** Python, Ruby, MySQL, SQL
@@ -27,13 +27,11 @@
 
 ---
 
-## 📬 Contato
+## Contato
 
 [![Website](https://img.shields.io/badge/Website-alves404.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=161b22)](https://alves404.com)
 [![Gmail](https://img.shields.io/badge/Gmail-jvitormagalhaes17-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:jvitormagalhaes17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alves404-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/joao-vitor-alves-6473522b1/)
-[![Discord](https://img.shields.io/badge/Discord-Alves404-0d1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=161b22)](https://discord.gg/fudZCf8A)
-
 ---
 
 <div align="center">
